@@ -1,11 +1,11 @@
 <h1 align="center">Chathumini Satharasinghe</h1>
-<h3 align="center">A passionate Data Analyst from Sri Lanka</h3>
+
 
 - 🔭 I’m currently working on [Chameleon](https://github.com/Chameleon-company)
 
 - 🌱 I’m currently learning **MSc in Data Science**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Data Science Project**
 
 - 📫 How to reach me **chathuminirashmika99@gmail.com**
 

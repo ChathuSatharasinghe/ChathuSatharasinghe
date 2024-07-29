@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chathumini Satharasinghe</h1>
+<h1 align="center">Chathumini Satharasinghe</h1>
 <h3 align="center">A passionate Data Analyst from Sri Lanka</h3>
 
 - 🔭 I’m currently working on [Chameleon](https://github.com/Chameleon-company)

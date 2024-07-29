@@ -1,18 +1,48 @@
-<h1 align="center">Chathumini Satharasinghe</h1>
+# Chathumini Satharasinghe 
 
 
-- 🔭 I’m currently working on [Chameleon](https://github.com/Chameleon-company)
+Welcome to my GitHub profile! I'm a passionate financial consultant with a diverse skill set in various statistical methodologies and technologies. Here, you'll find my projects, contributions, and some information about my professional journey.
 
-- 🌱 I’m currently learning **MSc in Data Science**
+## About Me
 
-- 👯 I’m looking to collaborate on **Data Science Project**
+- 🌟 **Name:** Chathumini Satharasinghe
+- 🎓 **Education:** Masters Data Science, Deakin University
+- 🌐 **Location:** Melbourne, Australia
+- 🔗 **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/chathumini-satharasinghe-2172801a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJAt1x%2F9XRSKsrN%2FmTpaScQ%3D%3D)
 
-- 📫 How to reach me **chathuminirashmika99@gmail.com**
+## 🔧 Skills and Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chathumini satharasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathumini satharasinghe" height="30" width="40" /></a>
-</p>
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=r,java,python,cpp,matlab,html)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **R**
+- **Java**
+- **Python**
+- **C++**
+- **MATLAB**
+- **HTML/CSS**
+
+### Tools and Platforms
+![Tools](https://skillicons.dev/icons?i=jenkins,oracle,sap)
+
+- **Jenkins**
+- **Oracle Payroll**
+- **SAP Accounting**
+
+## 🚀 Projects
+
+### Project 1: Chameleon -(https://github.com/your-repo-link](https://github.com/Chameleon-company)
+![Project Image](https://avatars.githubusercontent.com/u/103407139?s=200&v=4)
+
+
+The City of Melbourne Open Data partners with The City of Melbourne to support knowledge expansion and application development among businesses, researchers and software developers. Using an educational platform ‘The Melbourne Open Playground’ (MOP) explores the potential applications of Open Data, aligning its initiatives with Melbourne’s Smart City strategies.
+
+
+
+## 📫 Contact Me
+
+Feel free to reach out to me via [Email](chathuminirashmika99@gmail.com).
+
+
+
+

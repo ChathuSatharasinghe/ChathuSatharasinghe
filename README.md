@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate financial consultant with a diver
 - 🌟 **Name:** Chathumini Satharasinghe
 - 🎓 **Education:** Masters Data Science, Deakin University
 - 🌐 **Location:** Melbourne, Australia
-- 🔗 **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/chathumini-satharasinghe-2172801a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJAt1x%2F9XRSKsrN%2FmTpaScQ%3D%3D)
+- 🔗 **LinkedIn:** [My LinkedIn Profile][([https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/chathumini-satharasinghe-2172801a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJAt1x%2F9XRSKsrN%2FmTpaScQ%3D%3D)](https://www.linkedin.com/in/chathumini-satharasinghe-2172801a3/)
 
 ## 🔧 Skills and Technologies
 

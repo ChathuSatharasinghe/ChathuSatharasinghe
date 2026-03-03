@@ -1,48 +1,103 @@
-# Chathumini Satharasinghe 
+# 👩🏻‍💻 Chathumini Satharasinghe  
 
+### 🚀 Certified Analytics Data Developer | SQL & BigQuery | Power BI Insight Engineer  
+📍 Melbourne, Australia | Full Working Rights (Subclass 485)
 
-Welcome to my GitHub profile! I'm a passionate financial consultant with a diverse skill set in various statistical methodologies and technologies. Here, you'll find my projects, contributions, and some information about my professional journey.
+---
 
-## About Me
+## 🔹 About Me  
 
-- 🌟 **Name:** Chathumini Satharasinghe
-- 🎓 **Education:** Masters Data Science, Deakin University
-- 🌐 **Location:** Melbourne, Australia
-- 🔗 **LinkedIn:** [My LinkedIn Profile][([https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/chathumini-satharasinghe-2172801a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJAt1x%2F9XRSKsrN%2FmTpaScQ%3D%3D)](https://www.linkedin.com/in/chathumini-satharasinghe-2172801a3/)
+I’m a Melbourne-based **Data Analyst & Analytics Engineer** with 3+ years of experience designing and optimising SQL-driven data platforms, building KPI-driven dashboards, and implementing structured data quality frameworks.
 
-## 🔧 Skills and Technologies
+I specialise in:
+- Backend SQL platform design (Google BigQuery)
+- Automated data validation & SLA monitoring
+- KPI modelling & executive dashboards
+- Structuring multi-source ingestion into insight-ready data marts
+- Translating stakeholder requirements into scalable analytics environments
 
-### Programming Languages
-![Languages](https://skillicons.dev/icons?i=r,java,python,cpp,matlab,html)
+---
 
-- **R**
-- **SQL**
-- **Python**
-- **Excel**
-- **Tableau**
-- **PowerBI**
+## 🛠 Tech Stack  
 
-### Tools and Platforms
-![Tools](https://skillicons.dev/icons?i=jenkins,oracle,sap)
+### 💾 Data Platforms
+![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-blue)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-Cloud-orange)
+![Data%20Modelling](https://img.shields.io/badge/Data%20Modelling-Analytics-success)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey)
 
-- **Jenkins**
-- **Oracle Payroll**
-- **SAP Accounting**
+### 📊 Business Intelligence
+![PowerBI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualisation-blueviolet)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
-## 🚀 Projects
+### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
+![R](https://img.shields.io/badge/R-Statistics-darkblue)
 
-### Project 1: Chameleon -(https://github.com/your-repo-link](https://github.com/Chameleon-company)
-![Project Image](https://avatars.githubusercontent.com/u/103407139?s=200&v=4)
+### ☁ Enterprise & Cloud
+![GCP](https://img.shields.io/badge/Google%20Cloud-Analytics-orange)
+![Databricks](https://img.shields.io/badge/Azure%20Databricks-Foundations-red)
+![Oracle](https://img.shields.io/badge/Oracle-EBS%20%7C%20HCM-red)
+![SAP](https://img.shields.io/badge/SAP-ERP-blue)
 
+---
 
-The City of Melbourne Open Data partners with The City of Melbourne to support knowledge expansion and application development among businesses, researchers and software developers. Using an educational platform ‘The Melbourne Open Playground’ (MOP) explores the potential applications of Open Data, aligning its initiatives with Melbourne’s Smart City strategies.
+## 📊 Featured Projects  
 
+### 🔹 Data Quality Monitoring Framework  
+**SQL | BigQuery | Power BI**
 
+- Engineered 30+ automated SQL validation checks  
+- Detected 8–12% incomplete records & 6–9% duplicate inflation  
+- Identified 15.48-day stale postings & ingestion gaps  
+- Reduced reporting distortion risk by 15–25%  
+- Built daily SLA monitoring dashboards  
 
-## 📫 Contact Me
+---
 
-Feel free to reach out to me via [Email](chathuminirashmika99@gmail.com).
+### 🔹 Market Intelligence & Competition Index Dashboard  
+**Power BI (DAX) | SQL**
 
+- Built national & state-level competition indices  
+- Designed YoY & seasonality trend models  
+- Improved reporting clarity by 40%  
+- Increased stakeholder adoption by 35%  
 
+---
 
+### 🔹 Data Job Trends Insight Engine  
+**Python | Excel | Power BI**
 
+- Analysed ~2,000 Australian job postings weekly  
+- Automated job classification (90% manual effort reduction)  
+- Built rolling 4-week trend dashboards  
+- Enhanced insight engagement by 25%  
+
+---
+
+## 📈 GitHub Stats  
+
+![Chathu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+## 🎓 Education  
+
+**Master of Data Science** – Deakin University  
+- 6 High Distinctions | WAM 75.1  
+- 1st Place – Deakin × Microsoft AI Challenge  
+
+**Certified Data Analyst (Top 3 MVP Rank)** – The Data Analytics Institute  
+
+**BSc Statistics, Mathematics & Programming (Second Class Upper)** – University of Colombo  
+
+---
+
+## 📫 Connect With Me  
+
+📧 chathuminirashmika99@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/chathumini-satharasinghe-2172801a3/  
+🌐 Portfolio: https://datascienceportfol.io/ChathuSatharasinghe  

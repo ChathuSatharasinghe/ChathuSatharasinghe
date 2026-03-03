@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Chathumini Satharasinghe  
 
-### 🚀 Certified Analytics Data Developer | SQL & BigQuery | Power BI Insight Engineer  
+### Certified Analytics Data Developer | SQL & BigQuery | Power BI Insight Engineer  
 📍 Melbourne, Australia | Full Working Rights (Subclass 485)
 
 ---
@@ -18,24 +18,24 @@ I specialise in:
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
-### 💾 Data Platforms
+### Data Platforms
 ![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-blue)
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-Cloud-orange)
 ![Data%20Modelling](https://img.shields.io/badge/Data%20Modelling-Analytics-success)
 ![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey)
 
-### 📊 Business Intelligence
+### Business Intelligence
 ![PowerBI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualisation-blueviolet)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
-### 🐍 Programming
+### Programming
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
 ![R](https://img.shields.io/badge/R-Statistics-darkblue)
 
-### ☁ Enterprise & Cloud
+### Enterprise & Cloud
 ![GCP](https://img.shields.io/badge/Google%20Cloud-Analytics-orange)
 ![Databricks](https://img.shields.io/badge/Azure%20Databricks-Foundations-red)
 ![Oracle](https://img.shields.io/badge/Oracle-EBS%20%7C%20HCM-red)
@@ -43,7 +43,7 @@ I specialise in:
 
 ---
 
-## 📊 Featured Projects  
+## Featured Projects  
 
 ### 🔹 Data Quality Monitoring Framework  
 **SQL | BigQuery | Power BI**

@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm a passionate financial consultant with a diver
 ![Languages](https://skillicons.dev/icons?i=r,java,python,cpp,matlab,html)
 
 - **R**
-- **Java**
+- **SQL**
 - **Python**
-- **C++**
-- **MATLAB**
-- **HTML/CSS**
+- **Excel**
+- **Tableau**
+- **PowerBI**
 
 ### Tools and Platforms
 ![Tools](https://skillicons.dev/icons?i=jenkins,oracle,sap)
